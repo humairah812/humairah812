@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @humairah812
+- 👀 I’m interested in reading fantasy stories, tech blogs, and exploring new programming languages.
+- 🌱 I’m currently learning Data Structures & Algorithms
+- 💞️ I’m looking to collaborate on projects related to app development, software engineering, or automation.
+- 📫 How to reach me You can contact me via email at humairah812@example.com 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love diving into fantasy worlds through books, but I’m also passionate about building my own digital creations!
+
+
+<!---
+humairah812/humairah812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
